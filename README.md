@@ -1,2 +1,2 @@
 # odfe-plugin-installers
-Automation and documentation to build ODFE plugin locally
+This repository holds various scripts and documentation for installing and configuring ODFE (OopenDistro for Elasticsearch plugins)
